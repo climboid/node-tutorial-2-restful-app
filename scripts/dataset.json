@@ -1,0 +1,810 @@
+{
+    "ports": [
+        {
+            "origin": "LOS ANGELES, USA",
+            "destination": [
+                "LOS ANGELES"
+            ]
+        },
+        {
+            "origin": "SAINT PETERSBURG (EX LENINGRAD), RUSSIA",
+            "destination": [
+                "TALLIN",
+                "ST PETERSBURG",
+                "HELSINKI",
+                "ST.PETERSBURG",
+                "ST PETERSBURG PLT",
+                "TALLINN",
+                "WARNEMUNDE"
+            ]
+        },
+        {
+            "origin": "MAHON, MENORCA, SPAIN",
+            "destination": [
+                "BARCELONA",
+                "PORT MAHON",
+                "BARCEO",
+                "TRAPANI",
+                "PALERMO"
+            ]
+        },
+        {
+            "origin": "BARI, ITALY",
+            "destination": [
+                "BARI",
+                "CORFU",
+                "KERKYRA",
+                "VENICE"
+            ]
+        },
+        {
+            "origin": "TRAPANI, ITALY",
+            "destination": [
+                "TRAPANI",
+                "MARSIGLIA",
+                "MARSIG",
+                "MARSIEMO",
+                "MARSID",
+                "LA VALLETTA"
+            ]
+        },
+        {
+            "origin": "YOKOHAMA, JAPAN",
+            "destination": [
+                "CHEJU",
+                "JP SSB",
+                "JP YOK",
+                "JP ISM",
+                "JP HKP",
+                "INCHEON",
+                "JP NAH",
+                "YOKOHAMA",
+                "JP NAZ",
+                "SHANGHAI",
+                "JP KOJ",
+                "JP NMX",
+                "PUSAN KR"
+            ]
+        },
+        {
+            "origin": "IBIZA, SPAIN",
+            "destination": [
+                "MARSEILLE",
+                "MARSEHONA",
+                "LISBON",
+                "IBIZA",
+                "BARCELLONA",
+                "MARSEILL",
+                "BILBAO",
+                "MARSEIO",
+                "MARSEH",
+                "PALMA"
+            ]
+        },
+        {
+            "origin": "MARSEILLE, FRANCE",
+            "destination": [
+                "BARCELLONA",
+                "LA VALLETTA",
+                "BARCENP",
+                "BARCENINO",
+                "MARSEH",
+                "MARSEHONA",
+                "PALERMO",
+                "MARSEILLE",
+                "SAVONA",
+                "PALMA DE MALLORCA",
+                "SAVONAO",
+                "MARSIGLIA",
+                "MARSID",
+                "MARSIDE ROSES",
+                "MARSIG",
+                "MARSIFO",
+                "MARSIGALE",
+                "MARSIGIA",
+                "MARSIEIL",
+                "SAVONAIL",
+                "SAVONC",
+                "SAVON",
+                "MARSEK",
+                "MARSEINE SUR MER",
+                "MARSEIS",
+                "MARSEHJUAN",
+                "MARSEHBONI",
+                "MARSEKAIL",
+                "MARSEJERTH RQSTD",
+                "BARCEM",
+                "BARCENERTH RQSTD",
+                "BARCELONA",
+                "MARSEIRRAT",
+                "MARSEJRARA",
+                "MARSEI",
+                "BARCEOGIO",
+                "BARCEL",
+                "BARCEO",
+                "LA VAMZIA",
+                "LA VAL",
+                "TANGIER",
+                "TANGIER  #",
+                "MARSEHONNE",
+                "MARSEKPEZ",
+                "MARSEKANTO",
+                "MARSEIA",
+                "BARCENO",
+                "BARCEMVECCHIA",
+                "BARCEL TROPEZ",
+                "BARCEMZIA",
+                "MALTA",
+                "MARSEHLON",
+                "MARSEHTROPEZ",
+                "MARSEJO",
+                "BARCEMS",
+                "LA VALLETTHIC WORKS",
+                "PALMA DE MALORCA",
+                "PALMA DE L",
+                "CAGLIARI",
+                "MARSEKTAT",
+                "MARSEKIA",
+                "MALAGA",
+                "MARSEHMER",
+                "MARSEIEU",
+                "PALMA CARLO",
+                "PALMA#N",
+                "PALMA!RRAT",
+                "PALMA\"O",
+                "PALMA!",
+                "MARSEILLLE"
+            ]
+        },
+        {
+            "origin": "SAVONA, ITALY",
+            "destination": [
+                "CIVITAVECCHIA",
+                "SAVONA",
+                "BARCELONA",
+                "BARCEL",
+                "BARCENERTH RQSTD",
+                "BARCELLONA",
+                "MARSEILLE",
+                "MARSEK",
+                "IBIZA",
+                "LISBON",
+                "BARCENO",
+                "MARSEI",
+                "MARSEIA",
+                "MARSEIRRAT",
+                "MONACO",
+                "MALAGA",
+                "MALAGACXPT",
+                "MALAGAAK",
+                "BARCELCARLO",
+                "MALAGACI GIB",
+                "MALAGASPAIN",
+                "BARCEM",
+                "MALAGAAN",
+                "MALAGAARIA",
+                "TRAPANI",
+                "PALERMO",
+                "MARSEK-TR TEK",
+                "MARSEH",
+                "MARSEJERTH RQSTD",
+                "MARSEHTROPEZ",
+                "MARSEIRI",
+                "MARSEHONA",
+                "MARSEJO",
+                "MARSEKN",
+                "MARSEHE",
+                "MARSEILLLE",
+                "TOULON",
+                "MARSEHCARLO",
+                "TOULOM",
+                "TOULOL",
+                "MARSEIGIO",
+                "TOULOMRRAT",
+                "TOULOO",
+                "TOULOOPEZ"
+            ]
+        },
+        {
+            "origin": "SALERNO, ITALY",
+            "destination": [
+                "SANTORINI",
+                "IZMIR",
+                "SALERNO",
+                "LIVORNO"
+            ]
+        },
+        {
+            "origin": "TOULON, FRANCE",
+            "destination": [
+                "CADIZ",
+                "TOULOL",
+                "TOULON",
+                "TOULOLES PEN",
+                "TOULOMRRAT",
+                "TOULOOANTO",
+                "PROPRIANO",
+                "PROPRHONA",
+                "PROPRK",
+                "PROPRIN CAP FERRAT"
+            ]
+        },
+        {
+            "origin": "VENEZIA, ITALY",
+            "destination": [
+                "VENEZIA",
+                "SPLIT",
+                "CORFU",
+                "BARI",
+                "VENICE",
+                "TRIESTE"
+            ]
+        },
+        {
+            "origin": "CASABLANCA, MOROCCO",
+            "destination": [
+                "CASABLANCA",
+                "CADIZ"
+            ]
+        },
+        {
+            "origin": "SHANGHAI, CHINA",
+            "destination": [
+                "FUKUOKA",
+                "FUKUOIN BAY",
+                "FUKUOJK",
+                "FUKUOH",
+                "ULSHAN",
+                ">JP UNS",
+                "SHANGHAI",
+                "CHEJU",
+                "CHEJUCRDER",
+                "PUSAN",
+                "INCHEON",
+                "SHAGHAI",
+                "SHAGH",
+                "SHAGHCN",
+                "JEJU",
+                "CHEJU\"EACH",
+                "CHEJUB"
+            ]
+        },
+        {
+            "origin": "KRONSHTADT, RUSSIA",
+            "destination": [
+                "TALLIN",
+                "HELSINKI",
+                "ST.PETERSBURG",
+                "ST PETERSBURG",
+                "TALLINN",
+                "WARNEMUNDE",
+                "WARNEN ON DON"
+            ]
+        },
+        {
+            "origin": "TALLINN, ESTONIA",
+            "destination": [
+                "RIGA",
+                "TALLIN",
+                "ST PETERSBURG",
+                "TALLIM",
+                "STOCKHOLM",
+                "TALLINN",
+                "SAINT PETERSBURG",
+                "ST PETERSBURG PLT",
+                "ST.PETERSBURG"
+            ]
+        },
+        {
+            "origin": "CIVITAVECCHIA, ITALY",
+            "destination": [
+                "CIVITAVECCHIA",
+                "PALERMO",
+                "PALERMMO",
+                "SAVONA",
+                "PALERMLLE",
+                "SAVONCTA SEA TRIAL",
+                "SAVON",
+                "MARSEILLE"
+            ]
+        },
+        {
+            "origin": "KERKIRA (CORFU), GREECE",
+            "destination": [
+                "MYKONOS",
+                "SANTORINI",
+                "SPLIT",
+                "CORFU",
+                "PIRAES",
+                "PIRAEUS",
+                "KERKYRA",
+                "DUBROVNIK",
+                "DUBROVNK",
+                "MYKONOSA"
+            ]
+        },
+        {
+            "origin": "CADIZ, SPAIN",
+            "destination": [
+                "CADIZ",
+                "LISBONA",
+                "VIGO",
+                "VALENCIA",
+                "SAVONA",
+                "LISBON",
+                "LEIXOES",
+                "VALENCIA \"IBZ",
+                "VALENCIA !",
+                "LISBOA"
+            ]
+        },
+        {
+            "origin": "HAKATA, JAPAN",
+            "destination": [
+                "FUKUOKA",
+                "KR PUS",
+                "FUKUOH",
+                "CHEJU",
+                "SHANGHAI",
+                "SHANGH",
+                "KR_MASAN",
+                "SHANGIAN CHINA",
+                "NINGBO",
+                "JP HKT",
+                "JP KOJ",
+                "JP MTE",
+                "JP MTES N3",
+                "JP MTGATE OFF",
+                "CHEJUEN",
+                "KR BUSAN"
+            ]
+        },
+        {
+            "origin": "PALMA DE MALLORCA, SPAIN",
+            "destination": [
+                "PALMA DE MALLORCA",
+                "NAPLES",
+                "BARCELLONA",
+                "SAVONA",
+                "SAVONARRAT",
+                "SAVONAMO",
+                "SAVONBY",
+                "NAPLESALY",
+                "BARCELONA",
+                "SAVONLONA",
+                "SAVONAA",
+                "SAVONAO",
+                "PALMA DE MALORCA",
+                "SAVONB",
+                "SAVONTE",
+                "SAVONCN",
+                "MALAGA",
+                "PALMA"
+            ]
+        },
+        {
+            "origin": "PALERMO, ITALY",
+            "destination": [
+                "PALERMO",
+                "LA VALLETTA",
+                "CAGLIARI",
+                "ARMINI IMERESE",
+                "MALTA LA VALLETTA",
+                "GENOVA",
+                "IBIZA"
+            ]
+        },
+        {
+            "origin": "SASEBO, JAPAN",
+            "destination": [
+                "JP SSB",
+                "JP NAZ",
+                "JP YOK",
+                "JP OSA",
+                "JP OS*>JP IWK OFF",
+                "JPN SBK"
+            ]
+        },
+        {
+            "origin": "IZMIR, TURKEY",
+            "destination": [
+                "IZMIR",
+                "SANTORINI",
+                "ARGOSTOLI"
+            ]
+        },
+        {
+            "origin": "VIGO, SPAIN",
+            "destination": [
+                "VIGO",
+                "SOUTHAMPTON"
+            ]
+        },
+        {
+            "origin": "SPLIT, CROATIA",
+            "destination": [
+                "CORFU",
+                "SPLIT",
+                "TRIESTE",
+                "KOTOR",
+                "ARGOSTOLI"
+            ]
+        },
+        {
+            "origin": "CAGLIARI, ITALY",
+            "destination": [
+                "CAGLIARI",
+                "CIVITAVECCHIA",
+                "SAVONA"
+            ]
+        },
+        {
+            "origin": "MALTA (VALLETTA), MALTA",
+            "destination": [
+                "LA VALLETTA",
+                "PALMA DE MALLORCA",
+                "SALERNO",
+                "CAGLIARI",
+                "PALMA",
+                "MALTA LA VALLETTA"
+            ]
+        },
+        {
+            "origin": "KLAIPEDA, LITHUANIA",
+            "destination": [
+                "LA VALLETTA",
+                "PALMA DE MALLORCA",
+                "SALERNO",
+                "CAGLIARI",
+                "PALMA",
+                "MALTA LA VALLETTA"
+            ]
+        },
+        {
+            "origin": "NAPOLI, ITALY",
+            "destination": [
+                "NAPLES",
+                "LA SPEZIA",
+                "LA SPEO",
+                "LA SPD"
+            ]
+        },
+        {
+            "origin": "GDYNIA, POLAND",
+            "destination": [
+                "GDYNIA",
+                "KIEL",
+                "KLAIPEDA",
+                "RIGA"
+            ]
+        },
+        {
+            "origin": "LA SPEZIA, ITALY",
+            "destination": [
+                "LA SPEZIA",
+                "SAVONA",
+                "N/A"
+            ]
+        },
+        {
+            "origin": "SOUTHAMPTON, UNITED KINGDOM",
+            "destination": [
+                "SOUTHAMPTON",
+                "AMSTERDAM"
+            ]
+        },
+        {
+            "origin": "ARGOSTOLION, GREECE",
+            "destination": [
+                "ARGOSTOLI",
+                "DUBROVNIK",
+                "CORFU",
+                "KERKYRA",
+                "KERKYRABKYRA"
+            ]
+        },
+        {
+            "origin": "PIRAEUS, GREECE",
+            "destination": [
+                "PIRAEUS",
+                "ISTANBUL"
+            ]
+        },
+        {
+            "origin": "DUBROVNIK, CROATIA",
+            "destination": [
+                "DUBROVNIK",
+                "VENICE",
+                "VENEZIA"
+            ]
+        },
+        {
+            "origin": "TRIESTE, ITALY",
+            "destination": [
+                "TRIESTE",
+                "SPLIT"
+            ]
+        },
+        {
+            "origin": "KIEL, GERMANY",
+            "destination": [
+                "KIEL",
+                "GDYNIA",
+                "STOCKHOLM",
+                "STOCKHOLMAND",
+                "STOCKHOLMI",
+                "STOCKHOLMARBY SVINO",
+                "STOCKHOLMB"
+            ]
+        },
+        {
+            "origin": "IJMUIDEN, NETHERLANDS",
+            "destination": [
+                "AMSTERDAM",
+                "COPENHAGEN"
+            ]
+        },
+        {
+            "origin": "ISTANBUL, TURKEY",
+            "destination": [
+                "ISTANBUL",
+                "MYKONOS",
+                "SANTORINI",
+                "ARGOSTOLI"
+            ]
+        },
+        {
+            "origin": "AMSTERDAM, NETHERLANDS",
+            "destination": [
+                "COPENHAGEN"
+            ]
+        },
+        {
+            "origin": "HAKODATE, JAPAN",
+            "destination": [
+                "JP HKP",
+                "JP AFG",
+                "KR PUSAN",
+                "KR PUQ",
+                "KR PUP"
+            ]
+        },
+        {
+            "origin": "LIVORNO, ITALY",
+            "destination": [
+                "LIVORNO",
+                "SAVONA"
+            ]
+        },
+        {
+            "origin": "BUSAN, KOREA",
+            "destination": [
+                "PUSAN",
+                "SHANGHAI",
+                "SHANGHAAJP KIJ OFF",
+                "SHANGJIA GANG",
+                "SHANGINGDAOO",
+                "SHANGH",
+                "SHANGHKONG",
+                "KR PUSAN",
+                "JP SSB",
+                "JP SSCEOJE DO",
+                ">JP KOK OFF",
+                "PUSAN KR",
+                "PUSAN E OT-5B",
+                "JP HKT"
+            ]
+        },
+        {
+            "origin": "BILBAO, SPAIN",
+            "destination": [
+                "PUSAN",
+                "SHANGHAI",
+                "SHANGHAAJP KIJ OFF",
+                "SHANGJIA GANG",
+                "SHANGINGDAOO",
+                "SHANGH",
+                "SHANGHKONG",
+                "KR PUSAN",
+                "JP SSB",
+                "JP SSCEOJE DO",
+                ">JP KOK OFF",
+                "PUSAN KR",
+                "PUSAN E OT-5B",
+                "JP HKT"
+            ]
+        },
+        {
+            "origin": "KOBENHAVN, DENMARK",
+            "destination": [
+                "COPENHAGEN",
+                "WARNEMUNDE"
+            ]
+        },
+        {
+            "origin": "PAUILLAC, FRANCE",
+            "destination": [
+                "BORDEAUX",
+                "PORTLAND"
+            ]
+        },
+        {
+            "origin": "ROSTOCK, GERMANY",
+            "destination": [
+                "WARNEMUNDE",
+                "STOCKHOLM",
+                "STOCKHOLM!RBY SVINO",
+                "VARNEMUNDE",
+                "COPENAGHEN",
+                "COPENHAGHEN",
+                "3 M3TL7\\P.?B+0",
+                "COPENHAGEN",
+                "KALAJOKI",
+                "KOBENHAVN",
+                "STOCKHOLMBN DEND",
+                "STOCKHOLMARBY SVINO",
+                "STOCKHOLMO-MHQ-TKU",
+                "STOCKHOLMI",
+                "STOCKHOLMVIA M:HAML",
+                "STOCKHOLM>MARIEHAM",
+                "STOCKHOLMCO",
+                "STOCKHOLMALTBY V.V.",
+                "ROSTOCK"
+            ]
+        },
+        {
+            "origin": "TANGIER, MOROCCO",
+            "destination": [
+                "TANGIER",
+                "CASABLANCA"
+            ]
+        },
+        {
+            "origin": "RIGA, LATVIA",
+            "destination": [
+                "TALLIN",
+                "KLAIPEDA"
+            ]
+        },
+        {
+            "origin": "MALAGA, SPAIN",
+            "destination": [
+                "MALAGA",
+                "CADIZ",
+                "FUNCHAL"
+            ]
+        },
+        {
+            "origin": "STOCKHOLM, SWEDEN",
+            "destination": [
+                "STOCKHOLM",
+                "HELSINKI",
+                "SAVONA",
+                "ST.PETERSBURG",
+                "TALLINN",
+                "TALLIN",
+                "TALLINNAR"
+            ]
+        },
+        {
+            "origin": "PORTLAND, UNITED KINGDOM",
+            "destination": [
+                "PORTLAND",
+                "LE HAVRE"
+            ]
+        },
+        {
+            "origin": "HELSINKI (HELSINGFORS), FINLAND",
+            "destination": [
+                "HELSINKI",
+                "NYNASHAMN",
+                "ST.PETERSBURG",
+                "KIEL",
+                "ST PETERSBURG",
+                "RIGA",
+                "KLAIPEDA"
+            ]
+        },
+        {
+            "origin": "LE HAVRE, FRANCE",
+            "destination": [
+                "LE HAVRE",
+                "DOVER"
+            ]
+        },
+        {
+            "origin": "LEIXOES, PORTUGAL",
+            "destination": [
+                "LEIXOES",
+                "DOVER",
+                "LA CORUNA"
+            ]
+        },
+        {
+            "origin": "DOVER, UNITED KINGDOM",
+            "destination": [
+                "DOVER",
+                "HAMBURG",
+                "GOTHEMBURG",
+                "GOTHENBURG",
+                "HAUGESUND",
+                "VARNEMUNDE",
+                "ROSTOCK REEDE"
+            ]
+        },
+        {
+            "origin": "VALENCIA, SPAIN",
+            "destination": [
+                "VALENCIA",
+                "SAVONA",
+                "SAVONC ISLANDS",
+                "SAVONJUAN"
+            ]
+        },
+        {
+            "origin": "HAUGESUND, NORWAY",
+            "destination": [
+                "HAUGESUND",
+                "KRISTIANSUND"
+            ]
+        },
+        {
+            "origin": "KRISTIANSUND, NORWAY",
+            "destination": [
+                "KRISTIANSUND",
+                "BODO"
+            ]
+        },
+        {
+            "origin": "BODO, NORWAY",
+            "destination": [
+                "BODO",
+                "SORTLAND",
+                "NARVIK",
+                "LEKNES"
+            ]
+        },
+        {
+            "origin": "PROPRIANO, FRANCE",
+            "destination": [
+                "PROPRIANO",
+                "OLBIA",
+                "OLBIA B"
+            ]
+        },
+        {
+            "origin": "OLBIA, ITALY",
+            "destination": [
+                "OLBIA",
+                "TRAPANI"
+            ]
+        },
+        {
+            "origin": "FUNCHAL, MADEIRA, PORTUGAL",
+            "destination": [
+                "FUNCHAL",
+                "TENERIFE"
+            ]
+        },
+        {
+            "origin": "SANTA CRUZ DE TENERIFE, SPAIN",
+            "destination": [
+                "TENERIFE",
+                "ARRECIFE"
+            ]
+        },
+        {
+            "origin": "LANZAROTE, SPAIN",
+            "destination": [
+                "ARRECIFE",
+                "PALAMOS"
+            ]
+        },
+        {
+            "origin": "A CORUNA, SPAIN",
+            "destination": [
+                "LA CORUNA"
+            ]
+        }
+    ]
+}

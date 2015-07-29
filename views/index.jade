@@ -1,4 +1,13 @@
 extends layout
 
 block content
-    div#map-canvas
+	if ports
+		ul
+			each val, index in ports
+				each destination, subindex in val.destination
+					li= val.origin
+					li= destination
+					div #{index}#{subindex}
+					div(id='map-canvas' + index + subindex).map-canvas
+					br
+	div#map-canvas.map-canvas

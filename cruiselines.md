@@ -1,0 +1,595 @@
+### Query to create his data
+db.waypoints.distinct("destinationPort",{originPort:"LOS ANGELES, USA"})
+
+Leaves LOS ANGELES, USA
+Arrives [ "LOS ANGELES" ]
+
+Leaves SAINT PETERSBURG (EX LENINGRAD), RUSSIA
+Arrives [
+    "TALLIN",
+    "ST PETERSBURG",
+    "HELSINKI",
+    "ST.PETERSBURG",
+    "ST PETERSBURG PLT",
+    "TALLINN",
+    "WARNEMUNDE"
+]
+
+Leaves MAHON, MENORCA, SPAIN
+Arrives [ "BARCELONA", "PORT MAHON", "BARCEO", "TRAPANI", "PALERMO" ]
+
+Leaves BARI, ITALY
+Arrives [ "BARI", "CORFU", "KERKYRA", "VENICE" ]
+
+Leaves TRAPANI, ITALY
+Arrives [ "TRAPANI", "MARSIGLIA", "MARSIG", "MARSIEMO", "MARSID", "LA VALLETTA" ]
+
+Leaves YOKOHAMA, JAPAN
+Arrives [
+    "CHEJU",
+    "JP SSB",
+    "JP YOK",
+    "JP ISM",
+    "JP HKP",
+    "INCHEON",
+    "JP NAH",
+    "YOKOHAMA",
+    "JP NAZ",
+    "SHANGHAI",
+    "JP KOJ",
+    "JP NMX",
+    "PUSAN KR"
+]
+
+Leaves IBIZA, SPAIN
+Arrives [
+    "MARSEILLE",
+    "MARSEHONA",
+    "LISBON",
+    "IBIZA",
+    "BARCELLONA",
+    "MARSEILL",
+    "BILBAO",
+    "MARSEIO",
+    "MARSEH",
+    "PALMA"
+]
+
+Leaves MARSEILLE, FRANCE
+Arrives [
+    "BARCELLONA",
+    "LA VALLETTA",
+    "BARCENP",
+    "BARCENINO",
+    "MARSEH",
+    "MARSEHONA",
+    "PALERMO",
+    "MARSEILLE",
+    "SAVONA",
+    "PALMA DE MALLORCA",
+    "SAVONAO",
+    "MARSIGLIA",
+    "MARSID",
+    "MARSIDE ROSES",
+    "MARSIG",
+    "MARSIFO",
+    "MARSIGALE",
+    "MARSIGIA",
+    "MARSIEIL",
+    "SAVONAIL",
+    "SAVONC",
+    "SAVON",
+    "MARSEK",
+    "MARSEINE SUR MER",
+    "MARSEIS",
+    "MARSEHJUAN",
+    "MARSEHBONI",
+    "MARSEKAIL",
+    "MARSEJERTH RQSTD",
+    "BARCEM",
+    "BARCENERTH RQSTD",
+    "BARCELONA",
+    "MARSEIRRAT",
+    "MARSEJRARA",
+    "MARSEI",
+    "BARCEOGIO",
+    "BARCEL",
+    "BARCEO",
+    "LA VAMZIA",
+    "LA VAL",
+    "TANGIER",
+    "TANGIER  #",
+    "MARSEHONNE",
+    "MARSEKPEZ",
+    "MARSEKANTO",
+    "MARSEIA",
+    "BARCENO",
+    "BARCEMVECCHIA",
+    "BARCEL TROPEZ",
+    "BARCEMZIA",
+    "MALTA",
+    "MARSEHLON",
+    "MARSEHTROPEZ",
+    "MARSEJO",
+    "BARCEMS",
+    "LA VALLETTHIC WORKS",
+    "PALMA DE MALORCA",
+    "PALMA DE L",
+    "CAGLIARI",
+    "MARSEKTAT",
+    "MARSEKIA",
+    "MALAGA",
+    "MARSEHMER",
+    "MARSEIEU",
+    "PALMA CARLO",
+    "PALMA#N",
+    "PALMA!RRAT",
+    "PALMA\"O",
+    "PALMA!",
+    "MARSEILLLE"
+]
+
+Leaves SAVONA, ITALY
+Arrives [
+    "CIVITAVECCHIA",
+    "SAVONA",
+    "BARCELONA",
+    "BARCEL",
+    "BARCENERTH RQSTD",
+    "BARCELLONA",
+    "MARSEILLE",
+    "MARSEK",
+    "IBIZA",
+    "LISBON",
+    "BARCENO",
+    "MARSEI",
+    "MARSEIA",
+    "MARSEIRRAT",
+    "MONACO",
+    "MALAGA",
+    "MALAGACXPT",
+    "MALAGAAK",
+    "BARCELCARLO",
+    "MALAGACI GIB",
+    "MALAGASPAIN",
+    "BARCEM",
+    "MALAGAAN",
+    "MALAGAARIA",
+    "TRAPANI",
+    "PALERMO",
+    "MARSEK-TR TEK",
+    "MARSEH",
+    "MARSEJERTH RQSTD",
+    "MARSEHTROPEZ",
+    "MARSEIRI",
+    "MARSEHONA",
+    "MARSEJO",
+    "MARSEKN",
+    "MARSEHE",
+    "MARSEILLLE",
+    "TOULON",
+    "MARSEHCARLO",
+    "TOULOM",
+    "TOULOL",
+    "MARSEIGIO",
+    "TOULOMRRAT",
+    "TOULOO",
+    "TOULOOPEZ"
+]
+
+Leaves SALERNO, ITALY
+Arrives 
+[ "SANTORINI", "IZMIR", "SALERNO", "LIVORNO" ]
+
+Leaves TOULON, FRANCE
+Arrives [
+    "CADIZ",
+    "TOULOL",
+    "TOULON",
+    "TOULOLES PEN",
+    "TOULOMRRAT",
+    "TOULOOANTO",
+    "PROPRIANO",
+    "PROPRHONA",
+    "PROPRK",
+    "PROPRIN CAP FERRAT"
+]
+
+Leave VENEZIA, ITALY
+Arrives [ "VENEZIA", "SPLIT", "CORFU", "BARI", "VENICE", "TRIESTE" ]
+
+Leaves CASABLANCA, MOROCCO
+Arrives [ "CASABLANCA", "CADIZ" ]
+
+Leaves SHANGHAI, CHINA
+Arrives [
+    "FUKUOKA",
+    "FUKUOIN BAY",
+    "FUKUOJK",
+    "FUKUOH",
+    "ULSHAN",
+    ">JP UNS",
+    "SHANGHAI",
+    "CHEJU",
+    "CHEJUCRDER",
+    "PUSAN",
+    "INCHEON",
+    "SHAGHAI",
+    "SHAGH",
+    "SHAGHCN",
+    "JEJU",
+    "CHEJU\"EACH",
+    "CHEJUB"
+]
+
+Leaves KRONSHTADT, RUSSIA
+Arrives [
+    "TALLIN",
+    "HELSINKI",
+    "ST.PETERSBURG",
+    "ST PETERSBURG",
+    "TALLINN",
+    "WARNEMUNDE",
+    "WARNEN ON DON"
+]
+
+Leaves TALLINN, ESTONIA
+Arrives [
+    "RIGA",
+    "TALLIN",
+    "ST PETERSBURG",
+    "TALLIM",
+    "STOCKHOLM",
+    "TALLINN",
+    "SAINT PETERSBURG",
+    "ST PETERSBURG PLT",
+    "ST.PETERSBURG"
+]
+
+Leaves CIVITAVECCHIA, ITALY
+Arrives [
+    "CIVITAVECCHIA",
+    "PALERMO",
+    "PALERMMO",
+    "SAVONA",
+    "PALERMLLE",
+    "SAVONCTA SEA TRIAL",
+    "SAVON",
+    "MARSEILLE"
+]
+
+Leaves KERKIRA (CORFU), GREECE
+Arrives [
+    "MYKONOS",
+    "SANTORINI",
+    "SPLIT",
+    "CORFU",
+    "PIRAES",
+    "PIRAEUS",
+    "KERKYRA",
+    "DUBROVNIK",
+    "DUBROVNK",
+    "MYKONOSA"
+]
+
+Leaves CADIZ, SPAIN
+Arrives [
+    "CADIZ",
+    "LISBONA",
+    "VIGO",
+    "VALENCIA",
+    "SAVONA",
+    "LISBON",
+    "LEIXOES",
+    "VALENCIA \"IBZ",
+    "VALENCIA !",
+    "LISBOA"
+]
+
+Leaves HAKATA, JAPAN
+Arrives [
+    "FUKUOKA",
+    "KR PUS",
+    "FUKUOH",
+    "CHEJU",
+    "SHANGHAI",
+    "SHANGH",
+    "KR_MASAN",
+    "SHANGIAN CHINA",
+    "NINGBO",
+    "JP HKT",
+    "JP KOJ",
+    "JP MTE",
+    "JP MTES N3",
+    "JP MTGATE OFF",
+    "CHEJUEN",
+    "KR BUSAN"
+]
+
+Leaves PALMA DE MALLORCA, SPAIN
+Arrives [
+    "PALMA DE MALLORCA",
+    "NAPLES",
+    "BARCELLONA",
+    "SAVONA",
+    "SAVONARRAT",
+    "SAVONAMO",
+    "SAVONBY",
+    "NAPLESALY",
+    "BARCELONA",
+    "SAVONLONA",
+    "SAVONAA",
+    "SAVONAO",
+    "PALMA DE MALORCA",
+    "SAVONB",
+    "SAVONTE",
+    "SAVONCN",
+    "MALAGA",
+    "PALMA"
+]
+
+Leaves PALERMO, ITALY
+Arrives [
+    "PALERMO",
+    "LA VALLETTA",
+    "CAGLIARI",
+    "ARMINI IMERESE",
+    "MALTA LA VALLETTA",
+    "GENOVA",
+    "IBIZA"
+]
+
+Leaves SASEBO, JAPAN
+Arrives [
+    "JP SSB",
+    "JP NAZ",
+    "JP YOK",
+    "JP OSA",
+    "JP OS*>JP IWK OFF",
+    "JPN SBK"
+]
+
+Leaves IZMIR, TURKEY
+Arrives [ "IZMIR", "SANTORINI", "ARGOSTOLI" ]
+
+Leaves VIGO, SPAIN
+Arrives [ "VIGO", "SOUTHAMPTON" ]
+
+Leaves SPLIT, CROATIA
+Arrives [ "CORFU", "SPLIT", "TRIESTE", "KOTOR", "ARGOSTOLI" ]
+
+Leaves CAGLIARI, ITALY
+Arrives [ "CAGLIARI", "CIVITAVECCHIA", "SAVONA" ]
+
+Leaves MALTA (VALLETTA), MALTA
+Arrives [
+    "LA VALLETTA",
+    "PALMA DE MALLORCA",
+    "SALERNO",
+    "CAGLIARI",
+    "PALMA",
+    "MALTA LA VALLETTA"
+]
+
+Leaves KLAIPEDA, LITHUANIA
+Arrives [
+    "LA VALLETTA",
+    "PALMA DE MALLORCA",
+    "SALERNO",
+    "CAGLIARI",
+    "PALMA",
+    "MALTA LA VALLETTA"
+]
+
+Leaves NAPOLI, ITALY
+Arrives [ "NAPLES", "LA SPEZIA", "LA SPEO", "LA SPD" ]
+
+Leaves GDYNIA, POLAND
+Arrives [ "GDYNIA", "KIEL", "KLAIPEDA", "RIGA" ]
+
+Leaves LA SPEZIA, ITALY
+Arrives [ "LA SPEZIA", "SAVONA", "N/A" ]
+
+Leaves SOUTHAMPTON, UNITED KINGDOM
+Arrrives [ "SOUTHAMPTON", "AMSTERDAM" ]
+
+Leaves ARGOSTOLION, GREECE
+Arrives [ "ARGOSTOLI", "DUBROVNIK", "CORFU", "KERKYRA", "KERKYRABKYRA" ]
+
+Leaves PIRAEUS, GREECE
+Arrives [ "PIRAEUS", "ISTANBUL" ]
+
+Leaves DUBROVNIK, CROATIA
+Arrives [ "DUBROVNIK", "VENICE", "VENEZIA" ]
+
+Leaves TRIESTE, ITALY
+Arrives [ "TRIESTE", "SPLIT" ]
+
+Leaves KIEL, GERMANY
+Arrives [
+    "KIEL",
+    "GDYNIA",
+    "STOCKHOLM",
+    "STOCKHOLMAND",
+    "STOCKHOLMI",
+    "STOCKHOLMARBY SVINO",
+    "STOCKHOLMB"
+]
+
+Leaves IJMUIDEN, NETHERLANDS
+Arrives [ "AMSTERDAM", "COPENHAGEN" ]
+
+Leaves ISTANBUL, TURKEY
+Arrives [ "ISTANBUL", "MYKONOS", "SANTORINI", "ARGOSTOLI" ]
+
+Leaves AMSTERDAM, NETHERLANDS
+Arrives [ "COPENHAGEN" ]
+
+Leaves HAKODATE, JAPAN
+Arrives [ "JP HKP", "JP AFG", "KR PUSAN", "KR PUQ", "KR PUP" ]
+
+Leaves LIVORNO, ITALY
+Arrives [ "LIVORNO", "SAVONA" ]
+
+Leaves BUSAN, KOREA
+Arrives [
+    "PUSAN",
+    "SHANGHAI",
+    "SHANGHAAJP KIJ OFF",
+    "SHANGJIA GANG",
+    "SHANGINGDAOO",
+    "SHANGH",
+    "SHANGHKONG",
+    "KR PUSAN",
+    "JP SSB",
+    "JP SSCEOJE DO",
+    ">JP KOK OFF",
+    "PUSAN KR",
+    "PUSAN E OT-5B",
+    "JP HKT"
+]
+
+Leaves BILBAO, SPAIN
+Arrives [
+    "PUSAN",
+    "SHANGHAI",
+    "SHANGHAAJP KIJ OFF",
+    "SHANGJIA GANG",
+    "SHANGINGDAOO",
+    "SHANGH",
+    "SHANGHKONG",
+    "KR PUSAN",
+    "JP SSB",
+    "JP SSCEOJE DO",
+    ">JP KOK OFF",
+    "PUSAN KR",
+    "PUSAN E OT-5B",
+    "JP HKT"
+]
+
+Leaves KOBENHAVN, DENMARK
+Arrives [ "COPENHAGEN", "WARNEMUNDE" ]
+
+Leaves PAUILLAC, FRANCE
+Arrives [ "BORDEAUX", "PORTLAND" ]
+
+Leaves ROSTOCK, GERMANY
+Arrives [
+    "WARNEMUNDE",
+    "STOCKHOLM",
+    "STOCKHOLM!RBY SVINO",
+    "VARNEMUNDE",
+    "COPENAGHEN",
+    "COPENHAGHEN",
+    "3 M3TL7\\P.?B+0",
+    "COPENHAGEN",
+    "KALAJOKI",
+    "KOBENHAVN",
+    "STOCKHOLMBN DEND",
+    "STOCKHOLMARBY SVINO",
+    "STOCKHOLMO-MHQ-TKU",
+    "STOCKHOLMI",
+    "STOCKHOLMVIA M:HAML",
+    "STOCKHOLM>MARIEHAM",
+    "STOCKHOLMCO",
+    "STOCKHOLMALTBY V.V.",
+    "ROSTOCK"
+]
+
+Leaves TANGIER, MOROCCO
+Arrives [ "TANGIER", "CASABLANCA" ]
+
+Leaves RIGA, LATVIA
+Arrives [ "TALLIN", "KLAIPEDA" ]
+
+Leaves MALAGA, SPAIN
+Arrives [ "MALAGA", "CADIZ", "FUNCHAL" ]
+
+Leaves STOCKHOLM, SWEDEN
+Arrives [
+    "STOCKHOLM",
+    "HELSINKI",
+    "SAVONA",
+    "ST.PETERSBURG",
+    "TALLINN",
+    "TALLIN",
+    "TALLINNAR"
+]
+
+Leaves PORTLAND, UNITED KINGDOM
+Arrives [ "PORTLAND", "LE HAVRE" ]
+
+Leaves HELSINKI (HELSINGFORS), FINLAND
+Arrives [
+    "HELSINKI",
+    "NYNASHAMN",
+    "ST.PETERSBURG",
+    "KIEL",
+    "ST PETERSBURG",
+    "RIGA",
+    "KLAIPEDA"
+]
+
+Leaves LE HAVRE, FRANCE
+Arrives [ "LE HAVRE", "DOVER" ]
+
+Leaves LEIXOES, PORTUGAL
+Arrives [ "LEIXOES", "DOVER", "LA CORUNA" ]
+
+Leaves DOVER, UNITED KINGDOM
+Arrives [
+    "DOVER",
+    "HAMBURG",
+    "GOTHEMBURG",
+    "GOTHENBURG",
+    "HAUGESUND",
+    "VARNEMUNDE",
+    "ROSTOCK REEDE"
+]
+
+Leaves VALENCIA, SPAIN
+Arrives [ "VALENCIA", "SAVONA", "SAVONC ISLANDS", "SAVONJUAN" ]
+
+Leaves HAUGESUND, NORWAY
+Arrives [ "HAUGESUND", "KRISTIANSUND" ]
+
+Leaves KRISTIANSUND, NORWAY
+Arrives [ "KRISTIANSUND", "BODO" ]
+
+Leaves BODO, NORWAY
+Arrives [ "BODO", "SORTLAND", "NARVIK", "LEKNES" ]
+
+Leaves PROPRIANO, FRANCE
+Arrives [ "PROPRIANO", "OLBIA", "OLBIA B" ]
+
+Leaves OLBIA, ITALY
+Arrives [ "OLBIA", "TRAPANI" ]
+
+Leaves FUNCHAL, MADEIRA, PORTUGAL
+Arrives [ "FUNCHAL", "TENERIFE" ]
+
+Leaves SANTA CRUZ DE TENERIFE, SPAIN
+Arrives [ "TENERIFE", "ARRECIFE" ]
+
+Leaves LANZAROTE, SPAIN
+Arrives [ "ARRECIFE", "PALAMOS" ]
+
+Leaves A CORUNA, SPAIN
+Arrives [ "LA CORUNA" ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,4 +1,9 @@
-#map-canvas{
-	width:800px;
-	height:1024px;
+body {
+   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+   font-weight: 300;
+}
+
+.map-canvas{
+	width:400px;
+	height:200px;
 }
